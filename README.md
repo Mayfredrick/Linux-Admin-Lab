@@ -1,2 +1,12 @@
-# Linux-Admin-Lab
-This lab purpose is to learn new skills on the linux systems.These skills will be helpful in managing day to day activities as a system administrator.
+# Linux Administration Lab
+## Objective
+Build foundational Linux administration skills using Ubuntu Server.
+## Environment
+-Ubuntu Server
+-VMware workstation pro
+-GitHub
+## Skills
+-Linux CLI
+-File System Navigation
+-Package Management
+-Documentation
