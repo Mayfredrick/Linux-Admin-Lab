@@ -1,0 +1,16 @@
+Week 1 Day 5
+Objectives
+To gain more skills on system services and logging.
+
+Commands Used
+-systemctl; I used this to manage services and system states under system.
+-journalctl; This command is helpful in viewing and querying logs collected by system.
+-ps;I used this to display information about currently running processes.
+-top; This command is very helpful in displaying running processes, cpu usage memory consumption, and system load in real-time.
+-cron; this command is very useful in scheduling task based on specified time you want them to be executed.
+
+Lessons Learned
+-Verified SSH service
+-reviewed system logs
+-Added cron job example
+-Updated system health report
