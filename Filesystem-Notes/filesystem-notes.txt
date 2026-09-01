@@ -1,0 +1,5 @@
+# What i found out after running some of these commands
+-cd /etc: this contains configuration files.
+-cd /home: this stores user home directories.
+-cd /var: this contains logs and variable data.
+-cd /bin: this contains essential user commands.
